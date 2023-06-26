@@ -1,0 +1,5 @@
+﻿,RandomOverSampler,SMOTE,BorderlineSMOTE,RandomUnderSampler,NearMiss,InstanceHardnessThreshold,SMOTEENN,SMOTETomek,logit
+AUC,4.1,4.475,5.425,5.05,7.4,2.5,4.675,4.6,6.775
+Gmeans,5.55,5.825,4.575,4.975,3.775,2.0,4.9,5.45,7.95
+Fmeasure,5.325,5.85,3.9,5.05,5.1,1.8,5.075,5.3,7.6
+Combination,4.992,5.383,4.633,5.025,5.425,2.1,4.883,5.117,7.442

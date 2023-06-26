@@ -1,0 +1,5 @@
+﻿,RandomOverSampler,SMOTE,BorderlineSMOTE,RandomUnderSampler,NearMiss,InstanceHardnessThreshold,SMOTEENN,SMOTETomek,XGB
+AUC,3.05,4.2,4.675,4.075,8.1,5.025,6.15,5.775,3.95
+Gmeans,4.3,6.25,6.0,3.15,3.675,1.375,6.575,6.75,6.925
+Fmeasure,3.75,5.375,4.675,3.55,6.2,3.575,6.325,5.6,5.95
+Combination,3.7,5.275,5.117,3.592,5.992,3.325,6.35,6.042,5.608
