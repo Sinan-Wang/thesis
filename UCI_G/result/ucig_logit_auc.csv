@@ -1,0 +1,10 @@
+﻿Approaches,1:15,1:10,1:5,1:1
+RandomOverSampler,0.558,0.588,0.594,0.645
+SMOTE,0.631,0.628,0.621,0.619
+BorderlineSMOTE,0.611,0.621,0.681,0.7
+RandomUnderSampler,0.605,0.594,0.534,0.705
+NearMiss,0.513,0.452,0.465,0.384
+InstanceHardnessThreshold,0.615,0.598,0.637,0.637
+SMOTEENN,0.478,0.607,0.649,0.623
+SMOTETomek,0.638,0.615,0.621,0.619
+logit,0.589,0.589,0.589,0.589
