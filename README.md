@@ -56,7 +56,7 @@ Note: This repository was tested on Python 3.9.7
 
 - Second, run the Analysis.ipynb file in Analysis folder, this script analyse the experimental results of  five datasets, which corresponds to the section 6 in thesis, including imbalanced learning analysis and analysis the impact of resampling methods on global interpretation.
 
-## Result
+## Results
 
 Section 6 in thesis discusses the main experiment results which are generated from Analysis.ipynb.
 
