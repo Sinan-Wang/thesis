@@ -13,10 +13,10 @@ to insert: shap_cor.jpg
 ## Table of Content
 
 - [Summary](#summary)
-- [Working with the repo](#Working with the repo)
-- [Reproducing results](#Reproducing-results)
-- [Results](#Results)
-- [Project structure](#Project structure)
+- [Working with the repo](#working-with-the-repo)
+- [Reproducing results](#reproducing-results)
+- [Results](#results)
+- [Project structure](#project-structure)
 
 ## Summary
 
