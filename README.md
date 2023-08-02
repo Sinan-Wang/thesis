@@ -24,7 +24,7 @@ In credit scoring domain, class imbalance is a frequently encountered problem, a
 
 The GitHub repository contains the experimental part of the thesis. 
 
-In the experiments, the performance of four models and eight resampling methods will be evaluated and compared.  The results show the superiority of XGBoost over four models and advantage of IHT over eight resampling methods. In addition, the impact of applying resampling methods on XAI interpretation results will be analysed. The results show that IHT tends to distort interpretation results especially when data set is tuned to be more balanced.
+In the experiments, the performance of four models and eight resampling methods will be evaluated and compared.  The results demonstrate that XGBoost outperforms the other three models, and IHT stands out as the most superior resampling method. In addition, the impact of applying resampling methods on XAI interpretation results will be analysed. The results show that IHT tends to distort interpretation results especially when data set is tuned to be more balanced.
 
 **Keywords**: credit scoring, imbalanced learning, XAI, resampling methods, model interpretation
 
@@ -74,7 +74,7 @@ The Analysis.ipynb is structured as follow:
 
 The details can be found in Analysis.ipynb.
 
-Note: Section 6.2.1 in thesis can be found in section 6.1.3 and 6.2.3 of GMC.ipynb, HMEQ.ipynb, UCI_D.ipynb, UCI_G.ipynb and UCI_P.ipynb.
+Note: Section 6.2.2 in thesis can be found in section 6.1.3 and 6.2.3 of GMC.ipynb, HMEQ.ipynb, UCI_D.ipynb, UCI_G.ipynb and UCI_P.ipynb.
 
 ## Project structure
 
