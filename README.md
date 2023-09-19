@@ -8,11 +8,8 @@
 
 **2nd Examiner:** Prof. Dr. Benjamin Fabian
 
-<<<<<<< HEAD
-=======
 ![shap_cor](https://github.com/Sinan-Wang/thesis/assets/85195560/8b1349b8-ffdd-46e5-ab85-d38230a67e2e)
 
->>>>>>> origin/main
 ## Table of Content
 
 - [Summary](#summary)
