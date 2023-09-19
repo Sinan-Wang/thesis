@@ -8,8 +8,6 @@
 
 **2nd Examiner:** Prof. Dr. Benjamin Fabian
 
-to insert: shap_cor.jpg
-
 ## Table of Content
 
 - [Summary](#summary)
