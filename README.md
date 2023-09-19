@@ -6,7 +6,7 @@
 
 **1st Examiner:** Prof. Dr. Stefan Lessmann
 
-**2nd Examiner:** ?
+**2nd Examiner:** Prof. Dr. Benjamin Fabian
 
 to insert: shap_cor.jpg
 
@@ -54,7 +54,7 @@ Note: This repository was tested on Python 3.9.7
 
   It is worth noting that due to the large size of give me some credit dataset, the GMC.ipynb is executed on kaggle sever and the data set is imported from kaggle directly instead of being saved in data folder. It is recommended to avoid running GMC.ipynb on your local computer, as it can take up a lot of resources.
 
-- Second, run the Analysis.ipynb file in Analysis folder, this script analyse the experimental results of  five datasets, which corresponds to the section 6 in thesis, including imbalanced learning analysis and analysis the impact of resampling methods on global interpretation.
+- Second, run the Analysis.ipynb file in Analysis folder, this script analyses the experimental results of  five datasets, which corresponds to the section 6 in thesis, including imbalanced learning analysis and analysis the impact of resampling methods on global interpretation.
 
 ## Results
 
