@@ -28,7 +28,6 @@ In the experiments, the performance of four models and eight resampling methods 
 
 **Keywords**: credit scoring, imbalanced learning, XAI, resampling methods, model interpretation
 
-(provide link?)
 
 ## Working with the repo
 
